@@ -73,14 +73,9 @@
 			<version>${jsweet-transpiler.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>org.jsweet.candies</groupId>
-			<artifactId>angular</artifactId>
-			<version>1.4.0-${jsweet-core.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>org.jsweet.candies</groupId>
-			<artifactId>angular-route</artifactId>
-			<version>1.3.0-${jsweet-core.version}</version>
+			<groupId>org.webjars</groupId>
+			<artifactId>jquery</artifactId>
+			<version>1.10.2-1</version>
 		</dependency>
 
 		<dependency>
