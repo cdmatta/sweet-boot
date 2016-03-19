@@ -1,4 +1,14 @@
+# Eclipse
 .classpath
 .project
 .settings
+
+# Maven
 target
+
+# JSweet
+.jsweet
+.ts
+
+# Project specific
+src/main/resources/static/dist
